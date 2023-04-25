@@ -1,2 +1,2 @@
-# projeto-01
+# projeto-xadrez
 Trabalho sobre tabela
